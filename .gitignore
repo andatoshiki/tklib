@@ -1,0 +1,6 @@
+/target
+/index
+
+*.csv
+/release
+/book-searcher
